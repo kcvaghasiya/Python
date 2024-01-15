@@ -2,8 +2,6 @@
 
 A simple Snake Game implementation in Python using the Turtle graphics library.
 
-![Snake Game Demo](SnakeGame/Screenshot_1.png)
-
 ## Features
 
 - Classic Snake Game with a graphical interface.
@@ -28,5 +26,23 @@ A simple Snake Game implementation in Python using the Turtle graphics library.
    
 3. Run the game:
 
- ```bash
-python main.py
+   ```bash
+   python main.py
+
+4. Use the arrow keys to control the snake:
+
+   Up arrow: Move the snake up
+   Down arrow: Move the snake down
+   Left arrow: Move the snake left
+   Right arrow: Move the snake right
+   
+6. Try to eat the food (green square) to grow the snake. The game ends if the snake collides with the wall or itself.
+
+![Snake Game Demo](SnakeGame/Screenshot_1.png)
+![Snake Game Demo](SnakeGame/Screenshot_2.png)
+
+## Contributions
+Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
