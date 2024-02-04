@@ -36,10 +36,9 @@ A simple Snake Game implementation in Python using the Turtle graphics library.
    Left arrow: Move the snake left
    Right arrow: Move the snake right
    
-6. Try to eat the food (green square) to grow the snake. The game ends if the snake collides with the wall or itself.
+6. Try to eat the food (green square) to grow the snake.
 
-![Snake Game Demo](SnakeGame/Screenshot_1.png)
-![Snake Game Demo](SnakeGame/Screenshot_2.png)
+![Snake Game Demo](SnakeGame/snake-game.png)
 
 ## Contributions
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
